@@ -1,2 +1,2 @@
-# wa-api
+# WAAPI
 Whatsapp API
